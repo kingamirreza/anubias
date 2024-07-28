@@ -60,7 +60,7 @@ https://xstack.ir
 * 👉 GUI ( GUI drag and drop component )
 * 👨‍💻 xScript ( xScript code look like javascript )
 * 💯 Free ( Totally Free )
-
+.
 
 
 ## Linux Installation
